@@ -1,15 +1,28 @@
-![Banner](https://github.com/MatiBalbiDev/MatiBalbiDev/assets/88946246/02caccc7-941e-4150-b012-e4b5450667e3)
-
-<p style='color: #6BA8A9; font-weight:700; margin-bottom: 32px; font-size:18px' align='center'>For my programming projects, I usually only upload to Github once I make significant progress. Feel free to create a pull request to contribute to any of my repositories.</p>
+<h1 align="center">Hi 👋, I'm Matías Balbi</h1>
+<h3 align="center">A FullStack Developer from Argentina</h3>
 
 ## About me:
 
-- <span style='color:#6BA8A9; font-weight:700; font-size:15px;'>🌱 I’m currently learning HTML, CSS, JS, Java and Angular.</span>
+- 🌱 I’m currently learning HTML, CSS, JS, Java and Angular.
 
-- <span style='color:#6BA8A9; font-weight:700; font-size:15px;'>🔭 Currently, I work as a junior software developer.</span>
+- 🔭 Currently, I work as a junior software developer.
 
-- <span style='color:#6BA8A9; font-weight:700; font-size:15px;'>😀 I enjoy watching anime, playing video games, and drawing in my free time.</span>
+- 😀 I enjoy watching anime, playing video games, and drawing in my free time.
 
-- <span style='color:#6BA8A9; font-weight:700; font-size:15px;'>💬 Ask me about good practices.</span>
+- 💬 Ask me about Java, JS or anything, i am happy to help.
+
+- 📫 How to reach me **matiasbalbi96@gmail.com**
+
+<p align='center'>For my programming projects, I usually only upload to Github once I make significant progress. Feel free to create a pull request to contribute to any of my repositories.</p>
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/matías-balbi-6748721b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matías-balbi-6748721b4/" height="30" width="40" /></a>
+</p>
+<br>
 
 [![Matías Github Stats](https://github-readme-stats.vercel.app/api?username=matibalbidev&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
