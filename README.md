@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matías Balbi</h1>
-<h3 align="center">A FullStack Developer from Argentina</h3>
+<h3 align="center">FullStack Developer from Argentina</h3>
 
 ## About me:
 
@@ -7,7 +7,7 @@
 
 - 🔭 Currently, I work as a junior software developer.
 
-- 😀 I enjoy watching anime, playing video games, and drawing in my free time.
+- 😀 Enjoy watching anime, playing video games, and drawing in my free time.
 
 - 💬 Ask me about Java, JS or anything, i am happy to help.
 
