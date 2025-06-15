@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning HTML, CSS, JS, Java and Angular.
 
-- 🔭 Currently, I work as a junior software developer.
+- 🔭 Currently, I work as a Software Developer.
 
 - 😀 Enjoy watching anime, playing video games, and drawing in my free time.
 
